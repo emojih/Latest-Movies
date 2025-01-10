@@ -1,5 +1,3 @@
-//
-
 import Moviecard from "../components/MovieCard";
 import { useState, useEffect } from "react";
 import { searchMovies, getPopularMovies } from "../services/api";
